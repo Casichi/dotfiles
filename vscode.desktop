@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=VsCode
+Exec=/home/casichi/Descargas/git/VSCode/code
+Icon=/home/casichi/Descargas/git/VSCode/resources/app/resources/linux/code.png
+Type=application
+Version=1.0
+Categories=Development;IDE;
+
